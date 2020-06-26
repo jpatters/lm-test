@@ -2,3 +2,5 @@
 label: Test
 hide_body: false
 fields: []
+pages:
+- content/hello-world.md
